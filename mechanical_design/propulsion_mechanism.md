@@ -13,6 +13,14 @@ improves environmental compatibility.
 
 ---
 
+## Propulsion Principle Illustration
+
+![Propulsion Principle](renders/propulsion_principle.PNG)
+
+A schematic view of the pulsed jet propulsion mechanism.
+The elastic chamber periodically contracts and expands,
+expelling water to generate thrust along the vertical axis.
+
 ## Biological Inspiration
 
 Jellyfish achieve locomotion by rhythmically contracting and relaxing their bell-shaped bodies.
