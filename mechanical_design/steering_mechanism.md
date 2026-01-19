@@ -33,6 +33,11 @@ while enabling directional maneuverability.
 ---
 
 ## Mechanical Structure
+## Experimental Demonstration
+
+The following video shows the steering mechanism actuated by differential control:
+
+[▶ View steering mechanism demonstration](renders/steering_demo.mp4)
 
 ### Flow Deflector Design
 
