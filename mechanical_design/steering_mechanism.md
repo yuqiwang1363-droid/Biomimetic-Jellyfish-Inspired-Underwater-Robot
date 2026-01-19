@@ -12,6 +12,14 @@ located at the water outlet.
 
 ---
 
+## Steering Mechanism Structure
+
+![Steering Mechanism](renders/steering_mechanism.PNG)
+
+The steering mechanism utilizes a flow deflector driven by an actuator
+to redirect the expelled water jet, generating lateral force
+for directional control.
+
 ## Steering Principle
 
 The steering mechanism is based on the principle of **thrust vector deflection**.
