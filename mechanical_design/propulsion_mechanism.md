@@ -15,7 +15,7 @@ improves environmental compatibility.
 
 ## Propulsion Principle Illustration
 
-![Propulsion Principle](renders/propulsion_principle.PNG)
+![Propulsion Principle](mechanical_design/renders/Propulsion Principle.PNG)
 
 A schematic view of the pulsed jet propulsion mechanism.
 The elastic chamber periodically contracts and expands,
