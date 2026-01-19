@@ -37,6 +37,11 @@ These phases are mechanically reproduced using a simplified actuation system.
 ---
 
 ## Mechanical Implementation
+## Experimental Demonstration
+
+The following video demonstrates the working principle of the pulsed jet propulsion mechanism:
+
+[▶ View propulsion mechanism demonstration](renders/propulsion_demo.mp4)
 
 ### Actuation Principle
 
