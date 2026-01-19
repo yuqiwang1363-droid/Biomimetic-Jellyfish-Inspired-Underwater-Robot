@@ -1,4 +1,10 @@
 # Biomimetic Jellyfish-Inspired Underwater Robot
+## System Overview
+
+![System Overview](mechanical_design/renders/full_system_overview.png)
+
+The overall mechanical layout of the biomimetic jellyfish-inspired underwater robot,
+including the propulsion chamber, actuation mechanism, and supporting structure.
 
 ## Project Overview
 
