@@ -95,7 +95,7 @@ the robot achieves both translational and directional motion.
 # 仿生水母水下机器人（中文版）
 ## System Overview
 
-![System Overview](mechanical_design/renders/full_system_overview(2).png)
+![System Overview](mechanical_design/renders/full_system_overview (2).png)
 ## 项目简介
 
 本项目设计并实现了一种**仿生水母水下机器人**，
