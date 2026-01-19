@@ -5,6 +5,10 @@
 
 The overall mechanical layout of the biomimetic jellyfish-inspired underwater robot,
 including the propulsion chamber, actuation mechanism, and supporting structure.
+## Experimental Demonstrations
+
+- [▶ Propulsion mechanism demonstration](mechanical_design/renders/propulsion_demo.mp4)
+- [▶ Steering mechanism demonstration](mechanical_design/renders/steering_demo.mp4)
 
 ## Project Overview
 
